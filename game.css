@@ -1,0 +1,60 @@
+#game {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+canvas {
+  display: block;
+}
+
+#score {
+  position: absolute;
+  top: 50px;
+  right: 50px;
+  font-size: 30px;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+#start-button {
+  position: absolute;
+  top: 150px;
+  left: 150px;
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.modal {
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 1;
+}
+
+.modal-content {
+  background-color: white;
+  margin: 15% auto;
+  padding: 20px;
+  width: 50%;
+  text-align: center;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 5px;
+  margin: 5px 0;
+}
+
+button {
+  padding: 5px;
+  margin: 10px 0;
+}
+

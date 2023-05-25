@@ -1,0 +1,9 @@
+1) increase difficulty every 15 levels
+2) power up coins 
+    extra life (most rare)            )
+    slow gravity (med)                )low grav is kind of working, i also need to adjust flap stength for when this powerup is active 
+    double points 5seconds (common)   )double points is working 
+    !! Right now i have power ups spawning, but i need to give them funcitonality and make them more sparse 
+
+3) background seamless
+Cheh -37
